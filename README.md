@@ -34,7 +34,7 @@ Parameters: params = [π/2, π/4] places the state in superposition.
 
 Output: State vector [cos(θ/2), exp(iφ) sin(θ/2)], where θ ≈ π/2 (equator), φ = π/4.
 
-Prints: 🐱 Quantum Cat State: [0.5+0.j 0.5+0.5j] (approx.).
+Prints: Quantum Cat State: [0.5+0.j 0.5+0.5j] (approx.).
 
 This creates a superposition akin to |+⟩ with phase, visualized as the cat's "quantum position."
 
@@ -76,7 +76,7 @@ Title: "REAL 3D QUANTUM CAT ON BLOCH SPHERE \nOrange Cat = BOTH Alive + Dead Sup
 
 Interactivity: plt.show(block=True) enables mouse-drag rotation.
 
-Console: "🎉 ORANGE 3D CAT on Bloch Sphere! Drag to rotate!"
+Console: "ORANGE 3D CAT on Bloch Sphere! Drag to rotate!"
 
 Usage Notes
 
